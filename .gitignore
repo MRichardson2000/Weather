@@ -10,7 +10,7 @@ wheels/
 .venv*
 
 # ruff
-ruff_cache*
+.ruff_cache*
 
 #sqlitecache
 .cache.sqlite*
